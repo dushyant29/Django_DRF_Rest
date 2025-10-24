@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+venv/
+car_dekho_api/lib/
+car_dekho_api/bin/
+staticfiles/
+media/
+.vscode/
+.idea/
+.DS_Store
+
